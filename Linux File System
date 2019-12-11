@@ -1,0 +1,21 @@
+Linux Filesystem Hierarchy
+1.1. Foreward
+1.2. The Root Directory
+1.3. /bin
+1.4. /boot
+1.5. /dev
+1.6. /etc
+1.7. /home
+1.8. /initrd
+1.9. /lib
+1.10. /lost+found
+1.11. /media
+1.12. /mnt
+1.13. /opt
+1.14. /proc
+1.15. /root
+1.16. /sbin
+1.17. /usr
+1.18. /var
+1.19. /srv
+1.20. /tmp
