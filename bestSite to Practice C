@@ -1,2 +1,16 @@
 #Some basic rules of writing a C program
 url> https://www.includehelp.com/c/some-basic-rules-of-writing-a-c-program.aspx
+
+GCC uses the following file name conventions:
+
+Source code file	program_name.c
+Object file	      program_name.o
+Executable file	  program_name (no ending)
+Header file	      name.h
+Library file	    libname.a or libname.so
+
+practice c with:
+url> https://www.learn-c.org/
+url> https://www.cprogramming.com/tutorial/c-tutorial.html?inl=nv
+
+
