@@ -85,6 +85,8 @@ Q. Searching in all files recursively using grep –r
 $ grep -r 'word' /path/to/file
 Q. String count
 $ grep -c 'go' /path/to/file   output: 6
+Q. find string in the specific directory through all python file.
+$ grep -i "abc xyz" $(find . ! -type d -name \*.py)
 
 
 #gzip
